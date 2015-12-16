@@ -1,0 +1,241 @@
+[
+    {
+        "outputFile": "C:\\Users\\dipanshu\\Desktop\\Adroid dev\\EmPubLite\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "C:\\Users\\dipanshu\\Desktop\\Adroid dev\\EmPubLite\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 142,
+                        "endColumn": 39,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 47,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "C:\\Users\\dipanshu\\Desktop\\Adroid dev\\EmPubLite\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 47,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 69,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\Users\\dipanshu\\Desktop\\Adroid dev\\EmPubLite\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 69,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 37,
+                    "endOffset": 246
+                },
+                "from": {
+                    "file": "C:\\Users\\dipanshu\\Desktop\\Adroid dev\\EmPubLite\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 37,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 251,
+                    "endLine": 7,
+                    "endColumn": 30,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "C:\\Users\\dipanshu\\Desktop\\Adroid dev\\EmPubLite\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endLine": 15,
+                        "endColumn": 30,
+                        "endOffset": 760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 369,
+                    "endColumn": 61,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "C:\\Users\\dipanshu\\Desktop\\Adroid dev\\EmPubLite\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 765,
+                        "endColumn": 61,
+                        "endOffset": 822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 431,
+                    "endLine": 10,
+                    "endColumn": 55,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "C:\\Users\\dipanshu\\Desktop\\Adroid dev\\EmPubLite\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endLine": 13,
+                        "endColumn": 55,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 574,
+                    "endColumn": 64,
+                    "endOffset": 634
+                },
+                "from": {
+                    "file": "C:\\Users\\dipanshu\\Desktop\\Adroid dev\\EmPubLite\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 439,
+                        "endColumn": 64,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 639,
+                    "endColumn": 66,
+                    "endOffset": 701
+                },
+                "from": {
+                    "file": "C:\\Users\\dipanshu\\Desktop\\Adroid dev\\EmPubLite\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 66,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 706,
+                    "endColumn": 60,
+                    "endOffset": 762
+                },
+                "from": {
+                    "file": "C:\\Users\\dipanshu\\Desktop\\Adroid dev\\EmPubLite\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 378,
+                        "endColumn": 60,
+                        "endOffset": 434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 767,
+                    "endColumn": 45,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "C:\\Users\\dipanshu\\Desktop\\Adroid dev\\EmPubLite\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 827,
+                        "endColumn": 45,
+                        "endOffset": 868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "C:\\Users\\dipanshu\\Desktop\\Adroid dev\\EmPubLite\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 54,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 182
+                    }
+                }
+            }
+        ]
+    }
+]

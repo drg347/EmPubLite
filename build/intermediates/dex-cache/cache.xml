@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\dipanshu\Desktop\Adroid dev\EmPubLite\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_3af62365efa68590026d6e6d134363a491168d36.jar" />
+    </item>
+    <item
+        jar="C:\Users\dipanshu\Desktop\Adroid dev\EmPubLite\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\dipanshu\Desktop\Adroid dev\EmPubLite\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_4d325e86a07e8925de6d1ba5663295718b1c5880.jar" />
+    </item>
+    <item
+        jar="C:\Users\dipanshu\Desktop\Adroid dev\EmPubLite\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="C:\Users\dipanshu\Desktop\Adroid dev\EmPubLite\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_b17459e6159c6a216cf66769439ceb65263d6efe.jar" />
+    </item>
+    <item
+        jar="C:\Users\dipanshu\Desktop\Adroid dev\EmPubLite\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\dipanshu\Desktop\Adroid dev\EmPubLite\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_813158ccf3ab243729763e3aad3b5ccea8bbf261.jar" />
+    </item>
+    <item
+        jar="C:\Users\dipanshu\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="C:\Users\dipanshu\Desktop\Adroid dev\EmPubLite\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0_ab74024e46bf14944f7bcfa378fdc54b2dfb9526.jar" />
+    </item>
+    <item
+        jar="C:\Users\dipanshu\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.8.0\a517f29ed06be2b2879524fcd94b6e9b36e2e0b5\retrofit-1.8.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="C:\Users\dipanshu\Desktop\Adroid dev\EmPubLite\app\build\intermediates\pre-dexed\debug\retrofit-1.8.0_4b3fd61f48704ec13c0857a13fcad0bfb5b241c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\dipanshu\Desktop\Adroid dev\EmPubLite\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="C:\Users\dipanshu\Desktop\Adroid dev\EmPubLite\app\build\intermediates\pre-dexed\debug\com.android.support-support-v13-23.1.1_593d1ff5aa01caddaad16c8f99e9147a59d40f6b.jar" />
+    </item>
+    <item
+        jar="C:\Users\dipanshu\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Users\dipanshu\Desktop\Adroid dev\EmPubLite\app\build\intermediates\pre-dexed\debug\gson-2.4_fad9f856f632e2428f1ac218fd8569ee380886af.jar" />
+    </item>
+
+</items>

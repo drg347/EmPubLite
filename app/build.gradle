@@ -1,0 +1,21 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 21
+    buildToolsVersion "21.1.2"
+    defaultConfig {
+        applicationId "com.commonsware.empublite"
+        versionCode 1
+        versionName "1.0"
+        minSdkVersion 15
+        targetSdkVersion 18
+    }
+}
+repositories {
+    mavenCentral()
+}
+dependencies {
+    compile 'de.greenrobot:eventbus:2.4.0'
+    compile 'com.google.code.gson:gson:2.4'
+    compile 'com.squareup.retrofit:retrofit:1.8.0'
+    compile 'com.android.support:support-v13:23.1.1'
+}
